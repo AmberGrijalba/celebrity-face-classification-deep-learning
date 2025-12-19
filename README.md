@@ -1,11 +1,8 @@
 # Celebrity-face-classification-deep-learning
 Clasificación de imágenes con Deep Learning (TensorFlow)
-# Celebrity Face Classification – Deep Learning
-
-# Celebrity Face Classification – Deep Learning
 
 Proyecto de **Clasificación de Imágenes** desarrollado como parte de la  
-**Inteligencia Artificial (UDH-B1-001-IMP-42A-25-03-G3)**.
+**Inteligencia Artificial**.
 
 El objetivo del proyecto es realizar un **análisis completo de un dataset de imágenes**
 y aplicar técnicas de **Deep Learning** para clasificar rostros de celebridades,
